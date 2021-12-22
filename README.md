@@ -1,5 +1,5 @@
 # round-2-Ishita
 
 
-This repository scraps the data from the following url according to the instructions given
+This repository scrapes the data from the following url according to the instructions given
 https://en.wikipedia.org/wiki/I
